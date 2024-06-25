@@ -1,7 +1,7 @@
 #redis
 #python:3.12.4
 #celery
-django:3.2.18
+#django
 click:8.1.7
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
